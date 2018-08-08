@@ -165,7 +165,7 @@
                     "osDisk": {
                         "name": "[variables('manageddisk')]",
                         "caching": "ReadWrite",
-                        "createOption": "FromImage"
+                         "createOption": "FromImage"
                     }
                 },
                 "networkProfile": {
